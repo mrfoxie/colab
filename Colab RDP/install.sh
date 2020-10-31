@@ -17,8 +17,9 @@ printf """$c$b
     | |___| (_) | | (_| | |_) |   | |  | | (_| | (__|   <\__ \\
      \_____\___/|_|\__,_|_.__/    |_|  |_|\__,_|\___|_|\_\___/ 
 
-    $r  By Pradyumna Krishna © 2020 $c
-      Github : https://github.com/PradyumnaKrishna/Colab-Hacks          
+    $r  By Mr. Foxie © 2020 $c
+      Github    : https://github.com/mrfoxie/colab
+      Instagram : @mistrysiddh
 $endc$enda""";
 
 sleep 5
