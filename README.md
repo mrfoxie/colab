@@ -4,7 +4,7 @@ Simple Hacks for Google Colaboratory to boost your productivity and help you to 
 
 Here is a brief about them all:
 
-## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][colab badge]][rdp notebook] [![RDP Issues][rdp issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Colab%20RDP)
+## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][colab badge]][rdp notebook] [![RDP Issues][rdp issues]](https://github.com/mrfoxie/colab/issues/labels/Colab%20RDP)
 
 Colab RDP is used to get **Remote Connection** to Google Colaboratory and use it with graphic user interface which can be used in many ways. It give you high end VM for maximum 12 hours which boost your productivity and you can perform heavy task without any worries.
 
@@ -18,7 +18,7 @@ Colab RDP is used to get **Remote Connection** to Google Colaboratory and use it
 
 <br />
 
-## [Colab SSH](Colab%20SSH/Colab%20SSH.ipynb) &nbsp;&nbsp; [![Open in Colab][colab badge]][ssh notebook] [![SSH Issues][ssh issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Colab%20SSH)
+## [Colab SSH](Colab%20SSH/Colab%20SSH.ipynb) &nbsp;&nbsp; [![Open in Colab][colab badge]][ssh notebook] [![SSH Issues][ssh issues]](https://github.com/mrfoxie/colab/issues/labels/Colab%20SSH)
 
 Colab SSH is used to get **SSH connection** to Google Colaboratory which gives you bash shell and you can use it for testing script or any other purpose. Making a script to configure Colab instance make it more productive.
 
@@ -32,7 +32,7 @@ Colab SSH is used to get **SSH connection** to Google Colaboratory which gives y
 
   <br />
 
-## [Torrent Downloader](Torrent%20Downloader/Torrent%20Downloader.ipynb) &nbsp;&nbsp; [![Open in Colab][colab badge]][torrent notebook] [![Torrent Issues][torrent issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Torrent%20Downloader)
+## [Torrent Downloader](Torrent%20Downloader/Torrent%20Downloader.ipynb) &nbsp;&nbsp; [![Open in Colab][colab badge]][torrent notebook] [![Torrent Issues][torrent issues]](https://github.com/mrfoxie/colab/issues/labels/Torrent%20Downloader)
 
 Torrent Downloader is **Colab based Torrent Downloader** in which you doesn't need any torrent client only just a google account for downloading and storing downloaded torrents into google drive. It doesn't utilizes your internet for download and for any reason the download remains incomplete then you can resume it in other colab instance. Just Download from your drive if needed.
 
@@ -60,10 +60,10 @@ Torrent Downloader is **Colab based Torrent Downloader** in which you doesn't ne
 
 [colab badge]: https://colab.research.google.com/assets/colab-badge.svg
 [license-badge]: https://img.shields.io/badge/License-MIT-blue.svg
-[rdp issues]: https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Colab%20RDP?label=Issues
-[rdp notebook]: https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb
-[ssh issues]: https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Colab%20SSH?label=Issues
-[ssh notebook]: https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20SSH/Colab%20SSH.ipynb
-[torrent issues]: https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Torrent%20Downloader?label=Issues
-[torrent notebook]: https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb
+[rdp issues]: https://img.shields.io/github/issues/mrfoxie/colab/Colab%20RDP?label=Issues
+[rdp notebook]: https://colab.research.google.com/github/mrfoxie/colab/blob/master/Colab%20RDP/Colab%20RDP.ipynb
+[ssh issues]: https://img.shields.io/github/issues/mrfoxie/colab/Colab%20SSH?label=Issues
+[ssh notebook]: https://colab.research.google.com/github/mrfoxie/colab/blob/master/Colab%20SSH/Colab%20SSH.ipynb
+[torrent issues]: https://img.shields.io/github/issues/mrfoxie/colab/Torrent%20Downloader?label=Issues
+[torrent notebook]: https://colab.research.google.com/github/mrfoxie/colab/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb
 [warning]: https://img.shields.io/badge/Warning-red
